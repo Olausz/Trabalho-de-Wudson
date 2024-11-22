@@ -1,2 +1,2 @@
-# Banco-de-dados-Avan-ado-Finaliza-o-
+# Trabalho de Finalização de Periodo, Banco de dados Avançado
 Repositorio dedicado ao trabalho de finalização de semestre P3 
